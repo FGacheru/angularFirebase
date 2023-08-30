@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mosh-demo-254": {
+      "hosting": {
+        "mosh-practices": [
+          "mosh-demo-254"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mosh-demo-254"
+  }
+}
